@@ -1,12 +1,10 @@
 The directory location throughout this readme for a given file is the root directory unless specified otherwise.
 
-To test out the code start by creating a python environment and install all the packages mentioned in `requirements.txt` using `pip3 install -r requirements.txt` or an equivalent command.
-
-All the code that was run locally used `Python 3.9.6`
+To test out the code start by creating a python environment and install all the packages mentioned in `requirements.txt` using `pip3 install -r requirements.txt` or an equivalent command. All the code that was run locally used `Python 3.9.6`
 
 The report for the programming task can be found in `docs/report.pdf` and the paper review for BERTScore can be found in `docs/bertscore_review.pdf`
 
-Please extract the `glove.6B.zip` file before running the code since we use these embeddings in most of the tasks
+You will need to download the glove 6B model and extract the .zip file for running most of the code - https://nlp.stanford.edu/projects/glove/
 
 
 ### Word similarity scores
